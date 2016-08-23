@@ -6,3 +6,4 @@ Awesome Distributed Machine Learning Frameworks
 * [Samsung Veles](https://github.com/Samsung/veles)
 * [Petuum](http://petuum.github.io/index.html)
 * [Elephas](https://github.com/maxpumperla/elephas): Distributed Deep learning with Keras & Spark
+* [Apache Singa](https://github.com/apache/incubator-singa): Distributed deep learning system
